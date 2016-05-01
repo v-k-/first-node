@@ -1,1 +1,3 @@
+It's just a first project to learn GitHub && node
+
 Hello, nothing here yet...
