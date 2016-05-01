@@ -1,0 +1,19 @@
+{
+  "name": "first-node",
+  "version": "0.0.0",
+  "description": "First understanding of node and GitHub",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/v-k-/first-node.git"
+  },
+  "author": "v-k",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/v-k-/first-node/issues"
+  },
+  "homepage": "https://github.com/v-k-/first-node#readme"
+}
